@@ -1,2 +1,3 @@
-# synthetic-dataset-faker
-Generate mock tabular and JSON datasets with realistic schema distributions.
+# Synthetic Dataset Faker
+
+Generate realistic test datasets.
